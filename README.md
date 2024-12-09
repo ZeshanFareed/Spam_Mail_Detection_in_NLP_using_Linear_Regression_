@@ -1,0 +1,2 @@
+# Spam_Mail_Detection_in_NLP_using_Linear_Regression_
+Using NLP Techniques and Machine Learning Project
